@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BensonChenda
 - 👀 I’m interested in ...fullstack development
-- 🌱 I’m currently learning ...python
+- 🌱 I’m currently learning ...python, Java, Mysql and C..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...ben.chris.1738@icloud.com
 
